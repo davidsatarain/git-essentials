@@ -1,1 +1,1 @@
-You can see this only in the new-branch branch
+This shows in master and new-branch 
